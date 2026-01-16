@@ -24,11 +24,11 @@
 
 ```bash
 # Kloonaa repositorio
-git clone https://github.com/your-username/wordpress-gitops-sync.git
+git clone https://github.com/herrakoo/wordpress-gitops-sync.git
 cd wordpress-gitops-sync
 
 # Tai lataa suoraan
-wget https://raw.githubusercontent.com/your-username/wordpress-gitops-sync/main/wp_gitops.py
+wget https://raw.githubusercontent.com/herrakoo/wordpress-gitops-sync/main/wp_gitops.py
 chmod +x wp_gitops.py
 ```
 
